@@ -3,6 +3,8 @@ Long acquisition time (AQT) due to series acquisition of multi-modality MR image
 
 #Paper: https://arxiv.org/abs/2006.12585
 
+#Tensorflow
+
 @inproceedings{srinivasan2020semantic,
   title={Semantic Features Aided Multi-Scale Reconstruction of Inter-Modality Magnetic Resonance Images},
   author={Srinivasan, Preethi and Kaur, Prabhjot and Nigam, Aditya and Bhavsar, Arnav},
