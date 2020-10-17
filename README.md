@@ -3,6 +3,8 @@ Long acquisition time (AQT) due to series acquisition of multi-modality MR image
 
 #Paper: https://arxiv.org/abs/2006.12585
 
+#https://www.youtube.com/watch?v=wa0uwEqxMVk&list=PLA_aRkh6HVbY922RCsopH27ng88-XcYhj&index=2&t=3s
+
 #Tensorflow #numpy #scipy #nibabel 
 
 @inproceedings{srinivasan2020semantic,
